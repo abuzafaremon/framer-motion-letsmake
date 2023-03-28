@@ -55,7 +55,7 @@ function App() {
           whileInView={{ scale: 1, opacity: 1 }}
           transition={{ duration: 1 }}
         >
-          <motion.p whileHover={{ fontSize: "25px", color: "white" }}>
+          <motion.p whileHover={{ fontSize: "25px", color: "red" }}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
             magnam ullam facere eius delectus unde quos nemo, qui reiciendis
             libero. Dolorem beatae perspiciatis cum repudiandae, labore sapiente
